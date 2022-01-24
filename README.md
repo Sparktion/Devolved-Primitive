@@ -7,6 +7,9 @@ The Devolved: Primitive Modpack
 
 💥208 Mods
 
+
+Check https://github.com/Sparktion/Devolved-Primitive/releases for releases.
+
 CurseForge: https://www.curseforge.com/minecraft/modpacks/devolved-primitive
  
 
