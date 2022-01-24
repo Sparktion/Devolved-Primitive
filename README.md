@@ -7,7 +7,7 @@ The Devolved: Primitive Modpack
 
 💥208 Mods
 
-
+CurseForge: https://www.curseforge.com/minecraft/modpacks/devolved-primitive
  
 
 ✔️High-Performance 
