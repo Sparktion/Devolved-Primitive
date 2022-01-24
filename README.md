@@ -11,7 +11,7 @@ The Devolved: Primitive Modpack
  
 
 ✔️High-Performance 
-👉Magnesium
+\n👉Magnesium
 
  
 
