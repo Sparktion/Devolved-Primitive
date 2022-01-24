@@ -17,23 +17,33 @@ The Devolved: Primitive Modpack
  
 
 ✔️Mechanical Tech
+
 👉Create
+
 👉Immersive Engineering
 
  
 
 ✔️Vanilla-Like
+
 👉Quark
+
 👉Autumnity
+
 👉AquaCulture
+
 👉Environmental
+
 👉The Endergetic Expansion
+
 👉Unity: Dark Edition
 
  
 
 ✔️Beginner Friendly
+
 👉Silent's Gems and Silent Gear
+
 👉Tinkers' Construct
 
 👉Resourceful Bees
@@ -41,36 +51,19 @@ The Devolved: Primitive Modpack
  
 
 ✔️Exploration & Dungeons
+
 👉Valhelsia Structures
+
 👉Dungeon Crawl
+
 👉YUNG's Better Dungeons
+
 👉Biomes O' Plenty
-
-
-
-
- 
-
-🟢The following images are of actual locations you can find in-game!
-
- 
-
-
-
- 
-
-
-
- 
 
 🟢Recommended 6 GB Ram
 🟢Minimum 5 GB RAM
 
- 
-
-
-
- 
+Modlist:
 
 Neapolitan (by TeamAbnormals)
 Waystones (by BlayTheNinth)
