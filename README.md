@@ -66,8 +66,8 @@ CurseForge: https://www.curseforge.com/minecraft/modpacks/devolved-primitive
 👉BrassAmber BattleTowers
 
 
-🟢Recommended 6 GB Ram
-🟢Minimum 5 GB RAM
+🟢Recommended 7-8 GB Ram
+🟢Minimum 6 GB RAM
 
 Modlist:
 
